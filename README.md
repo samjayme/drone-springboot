@@ -10,7 +10,7 @@ The medication/s to be delivered are also weighted in grams  and can be loaded t
 ## INSTALLATION:
 Using any of your favourite java editor(ECLIPSE,INTELLIJ IDEA e.t.c) download or  clone the file and open in the editor. As this is a spring boot MAVEN program ,
 necessary plugins and dependencies would be installed alongside the file in the editor
-###USAGE:
+## #USAGE:
 The program is developed using spring MVC(MODEL,VIEW,CONTROL)ARCHITECTURE ,AOP(ASPECT ORIENTED PROGRAMING),three layer architecture pattern.  
 The program is group into packages based on cross-cutting concerns, (ENTITY,SERVICE,REPOSITORY,CONTROLLER,EXCEPTION,SCHEDULER)  
 The entity package contains an abstract attributes of the DRONES and MEDICATIONS, service package is for business logic for the program requirements,repository package contains an interface for connecting to teh DATABASE(MYSQL)  
